@@ -146,3 +146,4 @@ Feel free to open an issue on our issue tracker, but please:
 4. File an issue at https://codeberg.org/Freeyourgadget/Gadgetbridge/issues/new/choose and possibly provide the logfile
 
 Alternatively you may use the standard logcat functionality to access the log.
+"# capstoneApp" 
